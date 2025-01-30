@@ -39,7 +39,7 @@ Mr. Mini is a 2D runner game developed using Unity. The game features various an
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/encodedCoder/mr-mini-the-game.git
    ```
 2. Open the Unity project located in the `UnityProject/mr. Mini Source/` directory.
 
