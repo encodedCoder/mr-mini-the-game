@@ -1,5 +1,7 @@
 # Mr. Mini - The Game
 
+![Mr. Mini Logo](Logo/mr_Mini.png)
+
 ## Overview
 
 Mr. Mini is a 2D runner game developed using Unity. The game features various animations, textures, and sprites to create an engaging and visually appealing experience. This repository contains all the assets and source files required to build and run the game.
