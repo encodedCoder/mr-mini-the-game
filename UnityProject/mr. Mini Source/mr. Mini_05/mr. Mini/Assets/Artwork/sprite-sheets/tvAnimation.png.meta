@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 9d95c22395dcb0644950c5215e2a0a8f
+timeCreated: 1551341744
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LunaWalkAnimation_0
+    21300002: LunaWalkAnimation_1
+    21300004: LunaWalkAnimation_2
+    21300006: LunaWalkAnimation_3
+    21300008: LunaWalkAnimation_4
+    21300010: LunaWalkAnimation_5
+    21300012: LunaWalkAnimation_6
+    21300014: LunaWalkAnimation_7
+    21300016: LunaWalkAnimation_8
+    21300018: LunaWalkAnimation_9
+    21300020: LunaWalkAnimation_10
+    21300022: LunaWalkAnimation_11
+    21300024: LunaWalkAnimation_12
+    21300026: LunaWalkAnimation_13
+    21300028: LunaWalkAnimation_14
+    21300030: LunaWalkAnimation_15
+    21300032: LunaWalkAnimation_16
+    21300034: LunaWalkAnimation_17
+    21300036: LunaWalkAnimation_18
+    21300038: LunaWalkAnimation_19
+    21300040: LunaWalkAnimation_20
+    21300042: LunaWalkAnimation_21
+    21300044: LunaWalkAnimation_22
+    21300046: LunaWalkAnimation_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LunaWalkAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 881
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 881
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 881
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 882
+        width: 200
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 119}
+        - {x: -100, y: 119}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 738
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 738
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 738
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 739
+        width: 200
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 119}
+        - {x: -100, y: 119}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 595
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 595
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 595
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 595
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 452
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 452
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 452
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 452
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 309
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 309
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 309
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 309
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 166
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 166
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 166
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    - name: LunaWalkAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 166
+        width: 200
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 120}
+        - {x: -100, y: 120}
+        - {x: -100, y: 9}
+        - {x: -61, y: 5}
+        - {x: -61, y: 0}
+        - {x: 61, y: 0}
+        - {x: 61, y: 5}
+        - {x: 58, y: 8}
+        - {x: 100, y: 9}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
