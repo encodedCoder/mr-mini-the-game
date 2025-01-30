@@ -1,6 +1,6 @@
 # Mr. Mini - The Game
 
-![Mr. Mini Logo](Logo/mr_Mini.png)
+<img src="Logo/mr_Mini.png" alt="Mr. Mini Logo" width="200" height="200">
 
 ## Overview
 
